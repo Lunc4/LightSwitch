@@ -1,0 +1,17 @@
+
+Week1. 
+Woensdag avond - Begin dit logboek maar alvast aangezien het later nodig gaat zijn.
+Vandaag heb ik even een start gemaakt aan de code version control komt later wel.
+
+Goals: werkende lightswitch. Op zijn minst 1 lightbulb aan/uit kunnen zetten
+
+lightswitch werkt met een verbinding NAAR de lightswitch 
+
+Veel op veel relatie.
+CRUD via lightswitch.
+
+Weinig tot geen methods returnen iets, voelt verkeerd vraag hier morgen naar.
+
+
+Feedback : 
+Docent : 
